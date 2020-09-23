@@ -1,0 +1,19 @@
+const express = require("express");
+const app = express();
+
+
+app.get('/', function(req,res){
+  res.send("Hola mi primer servidor en VPT")
+})
+
+app.get('/estudiantes', function(req,res){
+  res.send("Este es el servicio de estudiantes")
+})
+
+app.get('/estudiantes/documento', function(req,res){
+  res.send("El documeto y el estudiante es: "+req.params.documento)
+})
+
+app.listen(8080,function(){
+  console.log("Servidor escuchando en el puerto 8080")
+})
