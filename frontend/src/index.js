@@ -6,7 +6,7 @@ import $ from "jquery";
 import Popper from "popper.js";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 
-import App from "..//App";
+import App from "../src/App";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
