@@ -1,6 +1,11 @@
 const express = require("express");
+const morgan = require("morgan");
 const app = express();
 
+app.use(morgan("dev"))
+app.use(express.json())
+
+app.use("/api/",require("./routes/usuarios"))
 
 app.get('/', function(req,res){
   res.send("Hola mi primer servidor en VPT")

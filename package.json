@@ -1,0 +1,31 @@
+{
+  "name": "equipo8VTPPI2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander-quin/equipo8_VT_PPI2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexander-quin/equipo8_VT_PPI2020/issues"
+  },
+  "homepage": "https://github.com/Alexander-quin/equipo8_VT_PPI2020#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
