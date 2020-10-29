@@ -12,18 +12,18 @@ function Header1() {
         </li>
         <li class="nav-item">
           <Link class="nav-link" to="/potabi">
-            Metodos/potabilizacion
+            Metodos de potabilizacion
           </Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">
+          <Link class="nav-link " to="/video" >
             Videos
-          </a>
+          </Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">
+          <Link class="nav-link" to="/foropg">
             Foro
-          </a>
+          </Link>
         </li>
       </ul>
     </div>

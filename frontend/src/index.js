@@ -8,6 +8,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 
 import App from "../src/ruta/App";
 
+
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
