@@ -3,7 +3,7 @@
   margin-left: 100px;
 }
 .Header1 {
-  width:1350px;
+  width:100vw;
   height: 500px;
   background: #bdc3c7; /* fallback for old browsers */
   background: -webkit-linear-gradient(
