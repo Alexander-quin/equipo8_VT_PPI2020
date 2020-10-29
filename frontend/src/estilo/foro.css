@@ -1,5 +1,5 @@
-.foro {
-  width: 100%;
+.Header2 {
+  width:100vw;
   height: 500px;
   background: #bdc3c7; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -15,5 +15,5 @@
     url(https://i.pinimg.com/564x/60/9e/30/609e309cf4beeae1905a3d84114e9388.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-attachment: fixed;
   position: relative;
-  overflow-y: visible 
+  overflow-y: visible;
 }

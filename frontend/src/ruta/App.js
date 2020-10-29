@@ -7,7 +7,7 @@ import Presentacion from "../Paginas/Presentacion";
 import Potabi from "../Paginas/Potabi";
 import Layout from "../componentes/Layout";
 import Video from "../Paginas/video";
-import Foropg from "../Paginas/foropg";
+import Foropag from "../Paginas/foropag";
 class App extends React.Component {
   render() {
     return (
@@ -18,7 +18,7 @@ class App extends React.Component {
             <Route exact path="/Presentacion" component={Presentacion} />
             <Route exact path="/potabi" component={Potabi} />
            <Route exact path = "/video" component={Video} />
-           <Route exact path = "/foropg" component={Foropg} />
+           <Route exact path = "/foropag" component={Foropag} />
           </Layout>
         </Switch>
       </BrowserRouter>

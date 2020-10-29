@@ -21,7 +21,7 @@ function Header1() {
           </Link>
         </li>
         <li class="nav-item">
-          <Link class="nav-link" to="/foropg">
+          <Link class="nav-link" to="/foropag">
             Foro
           </Link>
         </li>
