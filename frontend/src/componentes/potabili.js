@@ -9,6 +9,10 @@ function potabili() {
       <p class="espa"></p>
       <h2>METODOS</h2>
       <h3 class="subtitulo">Uso de Filtros:</h3>
+
+    <img class="img_filtro" src="https://i.pinimg.com/236x/0a/4f/75/0a4f755a630fee7ebb5d31805cbe1f8a.jpg"/>
+
+
       <p class="metodo">
       
 Para que la filtración sea eficaz es necesario usar un filtro de calidad como los de la marca Katadyn, pero es relativamente caro. Usa material cerámico y los poros están impregnados de plata para impedir el crecimiento de bacterias. El más popular es el modelo de mano, que dispone de bomba manual, con la que se consigue un ritmo de filtración de ¾ de litro por minuto

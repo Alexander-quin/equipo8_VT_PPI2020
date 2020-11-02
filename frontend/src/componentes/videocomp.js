@@ -4,7 +4,7 @@ function Video() {
   return (
     <div>
       <div class="Header1">
-        {" "}
+        {" "}   
         <h1 class="titulooverflow-y: visible;overflow-y: visible;"> Video</h1>
       </div>
       <div class="body">
@@ -12,6 +12,14 @@ function Video() {
 
         
         <iframe width="853" height="480" src="https://www.youtube.com/embed/5z9BKE2zyr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <h2>Video de Yodo y Cloro:</h2>
+        
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/dxteE2NmPW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+ 
+
+
       </div>
     </div>
   );

@@ -36,5 +36,16 @@ h1 {
   margin-left: 100px;
 }
 h2 {
+  font-family: Impact, Haettenschweiler,  sans-serif;
   text-align: center;
+}
+.img_filtro{
+  border: black 10px solid;
+  display: flex;
+  justify-content: center;
+  margin:auto;
+  height: 400px;
+}
+h3{
+  margin:100px;
 }
