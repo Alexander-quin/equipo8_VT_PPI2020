@@ -12,8 +12,9 @@ body {
   margin-left: 200px;
 }
 .foto {
+  
   height: 200px;
-  margin-left: 150px;
+  margin-left: 450px;
 }
 .Header {
   width: 100%;
@@ -54,4 +55,10 @@ body {
 .nom {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 20px;
+}
+.nomb{
+  margin-left: 420px;
+}
+.nomb1{
+  margin-left: 450px;
 }
