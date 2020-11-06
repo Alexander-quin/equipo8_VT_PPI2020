@@ -9,7 +9,7 @@ function Video() {
         <h1 class="titulooverflow-y: visible;overflow-y: visible;"> Foro</h1>
       </div>
       <div class="body">
-        <h2>Comentarios</h2>
+        <h2 class="coment">Comentarios</h2>
 
         <div class="caja">
 <form>
@@ -33,6 +33,30 @@ function Video() {
       </form>
 
         
+        </div>
+        <h2>Novedades</h2>
+        
+         <div id="carouselExampleFade" className="carousel slide carousel-fade" data-ride="carousel">
+  <div className="carousel-inner">
+    <div className="carousel-item active">
+      <img src="https://imgv2-2-f.scribdassets.com/img/document/92287189/original/a4eab83dcb/1601117725?v=1" className="imagen2" alt="..."/>
+    </div>
+    <div className="carousel-item">
+      <img src="https://ecodes.org/images/stories/imagenes2014/espacio3.jpg" className="imagen2" alt="..."/>
+    </div>
+
+    <div className="carousel-item">
+      <img src="https://lh3.googleusercontent.com/proxy/sfEFIpvMnU0nEQliEMPcKMUdphpmf0EkfYujXCYAtFaY7k_1PO7eqhn0GghJ8w-FNn64Hzi_LEml296VaUFStniCAoAbO62rJO81_WmjzOCro29VVgVY6ZFS1CDt6lP1S-aphGsSbgrPMuaJoTOwHRneOjEpCA" className="imagen2" alt="..."/>
+    </div>
+  </div>
+  <a  className="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev" >
+    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a className="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+    <span className="sr-only">Next</span>
+  </a>
         </div>
 
 
