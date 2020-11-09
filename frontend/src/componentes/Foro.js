@@ -46,7 +46,7 @@ function Video() {
     </div>
 
     <div className="carousel-item">
-      <img src="https://lh3.googleusercontent.com/proxy/sfEFIpvMnU0nEQliEMPcKMUdphpmf0EkfYujXCYAtFaY7k_1PO7eqhn0GghJ8w-FNn64Hzi_LEml296VaUFStniCAoAbO62rJO81_WmjzOCro29VVgVY6ZFS1CDt6lP1S-aphGsSbgrPMuaJoTOwHRneOjEpCA" className="imagen2" alt="..."/>
+      <img src="https://lh3.googleusercontent.com/proxy/Et0e5nPxN-QpTwvXwA6leKmOhrFgcNvW4Wt1-GEMUKFKl9y_U4gCwmzCG98FHPWpBYp7QQd-gDEvhY4lBMNXqiRPga9toQMJasdV1D9lsPI4_hczvx-4FEnwhjXbBdsBZe5cZogNNzsth5RpKFxbEjg0zFAPom50zbs" className="imagen2" alt="..."/>
     </div>
   </div>
   <a  className="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev" >
