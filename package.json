@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Alexander-quin/equipo8_VT_PPI2020#readme",
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "jquery": "^3.5.1",
     "morgan": "^1.10.0",

@@ -1,10 +1,10 @@
   
 const { Router } = require("express")
 const router = Router()
-const {connection} = require('../db/mysql')
+const {pool} = require('../db/mysql_pool')
     
 router.get("/usuarios", (req, res) => {
-    connection.query('SELECT * FROM USUARIO',  (error, rows, fields) => {
+    pool.query('SELECT * FROM USUARIO',  (error, rows, fields) => {
         if(!error){
             res.json(rows)
         }else{

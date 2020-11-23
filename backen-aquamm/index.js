@@ -1,11 +1,15 @@
 const express = require("express");
 const morgan = require("morgan");
+const cors = require ("cors")
 const app = express();
 
 app.use(morgan("dev"))
 app.use(express.json())
+app.use (cors())
 
 app.use("/api/",require("./routes/usuarios"))
+app.use("/api/",require("./routes/comentario"))
+
 
 app.get('/', function(req,res){
   res.send("Hola mi primer servidor en VPT")

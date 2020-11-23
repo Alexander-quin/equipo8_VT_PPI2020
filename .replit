@@ -1,6 +1,10 @@
   language = "nodejs"
 # run = "cd frontend && npm i"
- run = "cd frontend && npm start"
-# run = "cd backen-aquamm && npm i express nodemon morgan mysql"
-# run = "cd backen-aquamm && npm run dev"
+#run = "cd frontend && npm start"
+#run = "cd backen-aquamm && npm i mysql"
+run = "cd backen-aquamm && npm run dev"
 
+
+
+
+ 
