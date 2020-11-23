@@ -27,7 +27,7 @@ router.get("/comentario/:id", (req,res) => {
         if(results[0] !== undefined)
           res.status(200).json(results[0])
         else
-           res.status(200).json({})
+           res.status(200).json({}) 
       }
     })
   }catch(error){
